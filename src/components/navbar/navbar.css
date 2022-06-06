@@ -28,3 +28,9 @@
    cursor: pointer;
    color: #003580;
 }
+
+.logo{
+    width: 120px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
