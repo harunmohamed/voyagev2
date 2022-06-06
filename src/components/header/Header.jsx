@@ -2,6 +2,7 @@ import {
     faBed,
     faCalendarDays,
     faCar,
+    faMuseum,
     faPerson,
     faPlane,
     faTaxi,
@@ -68,7 +69,7 @@ import {
               <span>Car rentals</span>
             </div>
             <div className="headerListItem">
-              <FontAwesomeIcon icon={faBed} />
+              <FontAwesomeIcon icon={faMuseum} />
               <span>Attractions</span>
             </div>
             <div className="headerListItem">
